@@ -1,7 +1,7 @@
 ### Hola, soy Joaquin :raised_hand:
 Estudiante de Ingeniería Informática en la Universidad Carlos III de Madrid. En este repositorio podréis encontrar los principales proyectos que he ido haciendo a lo largo de la carrera.
 
-Las habilidades que desarrollado son: 
+Las habilidades que he desarrollado son: 
 - Desarrollo de software ⌨️📦🚀: diseño, desarrollo, implementación y
 prueba de software utilizando lenguajes de programación
 como C, C++ 📝 y Python 🐍.
