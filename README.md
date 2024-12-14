@@ -1,22 +1,22 @@
-### Hola, soy Joaquin :raised_hand:
-Estudiante de Ingeniería Informática en la Universidad Carlos III de Madrid. En este repositorio podréis encontrar los principales proyectos que he ido haciendo a lo largo de la carrera.
+### Hi, I'm Joaquin :raised_hand:
+I'm a Double Master's student in Computer Engineering and Cybersecurity at UC3M. In this repository you can find the main projects that I have been doing along my career.
 
-Las habilidades que he desarrollado son: 
-- Desarrollo de software ⌨️📦🚀: diseño, desarrollo, implementación y
-prueba de software utilizando lenguajes de programación
-como C, C++ 📝 y Python 🐍.
-- Programación web 💻🎨🌐: competencia en el desarrollo de
-aplicaciones web utilizando tecnologías como HTML, CSS y
-JavaScript, en el entorno de ejecución de node.js ⚡️.
-- Sistemas operativos 🖥️🔧: conocimiento de sistemas operativos
-como Windows 🪟 y Linux 🐧.
-- Redes y seguridad 🔒🔗🌍: familiaridad con conceptos de redes de
-computadoras, protocolos de comunicación y enrutamiento.
-- Bases de datos 🗃️💾📊: conocimientos básicos en el diseño y
-administración de bases de datos relacionales como SQL 🗄️.
-- Aprendizaje automático 🤖🧠 e inteligencia artificial 🔮💡: conocimientos
-en algoritmos de aprendizaje automático y procesamiento del
-lenguaje natural 💬, habiendo realizado proyectos en Python.
+The skills I have developed are: 
+- Software development ⌨️📦🚀: software design, development, implementation and
+development, implementation and testing of software using programming languages
+such as C, C++ 📝 and Python 🐍.
+- Web programming 💻🎨🌐: proficiency in the development of web applications using technologies such as HTML, CSS and CSS.
+web applications using technologies such as HTML, CSS and
+JavaScript, in the node.js runtime environment ⚡️.
+- Operating systems 🖥️🔧: knowledge of operating systems
+such as Windows 🪟 and Linux 🐧.
+- Networking and security 🔒🔗🌍: familiarity with computer network concepts, communication protocols and
+computer networks, communication protocols and routing.
+- Databases 🗃️💾📊: basic knowledge in designing and
+administration of relational databases such as SQL 🗄️.
+- Machine learning 🤖🧠 and artificial intelligence 🔮💡: knowledge
+in machine learning algorithms and natural language processing 🤖🧠 and artificial intelligence 🔮💡
+natural language 💬, having carried out projects in Python.
 
 
 <!--
