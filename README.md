@@ -9,12 +9,12 @@ I'm a Double Master's student in Computer Engineering and Cybersecurity at UC3M.
 
 ## 🌐 Web Development
 - **Frontend:** HTML 📄, CSS 🎨, JavaScript ⚡, React ⚛️  
-- **Full-stack Development:** Interfaces responsivas, backend logic, database interaction  
+- **Full-stack Development:** responsive interfaces, backend logic 🧮, database interaction 📲​  
 
 ## 🔒 Cybersecurity & Networks
 - **Tools & Platforms:** Wireshark 🕵️‍♂️, Snort IDS 🛡️, OSSIM SIEM 📊, Nmap 🌐, Metasploit 💣  
 - **Cryptography & Security:** AES 🔑, Hash functions 🧩, Public Key Cryptography 🔐, Blockchain ⛓️  
-- **Networking:** TCP/IP, routing, addressing, multimedia communication protocols 🌍  
+- **Networking:** TCP/IP, routing 📡, addressing, multimedia communication protocols 🌍  
 
 ## 🗄️ Databases & Data Management
 - **Relational:** SQL, MySQL 🗃️  
