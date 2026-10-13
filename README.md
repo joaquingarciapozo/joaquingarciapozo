@@ -1,5 +1,5 @@
 # Hi, I'm Joaquin :raised_hand:
-I'm a Double Master's student in Computer Engineering and Cybersecurity at UC3M. In this repository you can find the main projects that I have been doing along my career.
+I'm a Exchange student at TUM and a Double Master's student in Computer Engineering and Cybersecurity at UC3M. In this repository you can find the main projects that I have been doing along my career.
 
 ## 🖥️ Software Development
 - **Languages:** Python 🐍, C 📝, C++ 📝, JavaScript ⚡  
