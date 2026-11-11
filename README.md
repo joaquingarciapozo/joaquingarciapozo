@@ -1,50 +1,69 @@
-# Hi, I'm Joaquin :raised_hand:
-I'm an Exchange student at TUM and a Double Master's student in Computer Engineering and Cybersecurity at UC3M. In this repository you can find the main projects that I have been doing along my career.
+# Hi, I'm Joaquin! 👋
 
-## 🖥️ Software Development
-- **Languages:** Python 🐍, C 📝, C++ 📝, JavaScript ⚡  
-- **Frameworks & Backend:** Django 🌐, Node.js ⚡  
-- **Version Control & Dev Tools:** Git 🔧, Docker 🐳, Visual Studio Code 🖋️  
-- **APIs & Integrations:** RESTful APIs 🔗, RTIR API 🗂️, VirusTotal API 🦠  
+🎓 **Computer Engineer | Cybersecurity | Double Master's Student**
 
-## 🌐 Web Development
-- **Frontend:** HTML 📄, CSS 🎨, JavaScript ⚡, React ⚛️  
-- **Full-stack Development:** responsive interfaces, backend logic 🧮, database interaction 📲​  
+I'm currently an exchange student at **Technical University of Munich (TUM)** and pursuing a **Double Master's Degree in Computer Engineering and Cybersecurity at Universidad Carlos III de Madrid (UC3M)**.
 
-## 🔒 Cybersecurity & Networks
-- **Tools & Platforms:** Wireshark 🕵️‍♂️, Snort IDS 🛡️, OSSIM SIEM 📊, Nmap 🌐, Metasploit 💣  
-- **Cryptography & Security:** AES 🔑, Hash functions 🧩, Public Key Cryptography 🔐, Blockchain ⛓️  
-- **Networking:** TCP/IP, routing 📡, addressing, multimedia communication protocols 🌍  
+I'm passionate about software engineering, cybersecurity, distributed systems, and emerging technologies. This repository showcases some of the projects I've developed throughout my academic journey, combining theoretical knowledge with hands-on engineering experience.
 
-## 🗄️ Databases & Data Management
-- **Relational:** SQL, MySQL 🗃️  
-- **Non-relational:** MongoDB 🗄️  
-- **Big Data:** Hadoop 🐘, Spark ⚡  
+---
 
-## 🤖 Machine Learning & AI
-- **Libraries & Tools:** scikit-learn 📊, Pandas 🐼  
-- **Applications:** Machine learning models, intelligent agents, decision-making systems 🤖  
+## 💻 Technical Skills
 
-## ☁️ Cloud & IoT
-- **Cloud Platforms:** Google Cloud Platform ☁️ (IoT Core, Pub/Sub, Cloud Functions)  
-- **Containerization & Orchestration:** Docker 🐳, Kubernetes ☸️  
-- **IoT Development:** Connected systems, data pipelines, scalable architectures 🌐  
+### Software Engineering & Development
+- **Programming Languages:** Python, C, C++, JavaScript
+- **Backend Development:** Django, Node.js
+- **Version Control & Development Tools:** Git, Docker, Visual Studio Code
+- **APIs & Integrations:** RESTful APIs, RTIR API, VirusTotal API
 
-## 📊 Project & Workflow Management
-- **Methodologies:** Agile ⚡, PRINCE2 📈, Kanban 🗂️  
-- **Tools:** Jira 📋, ClickUp ✅  
-- **Performance & Optimization:** MPI ⚛️, OpenMP ⚡, CUDA 🔥, Amdahl's Law 📐
-<!--
-**joaquingarciapozo/joaquingarciapozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Full-Stack Development:** Responsive web applications, backend development, database integration
 
-Here are some ideas to get you started:
+### 🔐 Cybersecurity & Computer Networks
+- **Security Tools:** Wireshark, Snort IDS, OSSIM SIEM, Nmap, Metasploit
+- **Cryptography:** AES, Cryptographic Hash Functions, Public-Key Cryptography
+- **Security Technologies:** Blockchain, Intrusion Detection Systems, Security Information and Event Management (SIEM)
+- **Networking:** TCP/IP, Routing, IP Addressing, Multimedia Communication Protocols
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ Databases & Big Data
+- **Relational Databases:** SQL, MySQL
+- **NoSQL Databases:** MongoDB
+- **Big Data Technologies:** Hadoop, Apache Spark
+
+### 🤖 Artificial Intelligence & Machine Learning
+- **Libraries & Frameworks:** Scikit-learn, Pandas
+- **Applications:** Machine Learning Models, Intelligent Agents, Decision-Making Systems
+
+### ☁️ Cloud Computing & Internet of Things
+- **Cloud Platforms:** Google Cloud Platform (IoT Core, Pub/Sub, Cloud Functions)
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **IoT Development:** Connected Systems, Data Pipelines, Scalable Architectures
+
+### ⚡ Parallel & High-Performance Computing
+- **Parallel Programming:** MPI, OpenMP, CUDA
+- **Performance Optimization:** Parallel Algorithms, Performance Analysis, Amdahl's Law
+
+### 📊 Project Management & Methodologies
+- **Methodologies:** Agile, PRINCE2, Kanban
+- **Project Management Tools:** Jira, ClickUp
+
+---
+
+## 🚀 Areas of Interest
+
+- Software Engineering & Distributed Systems
+- Cybersecurity & Network Security
+- Artificial Intelligence & Machine Learning
+- Cloud Computing & IoT Architectures
+- High-Performance & Parallel Computing
+
+---
+
+## 📂 About This Repository
+
+This repository contains a collection of academic and personal projects developed during my Computer Engineering and Cybersecurity studies.
+
+Each project represents an opportunity to explore new technologies, solve engineering challenges, and put theoretical concepts into practice.
+
+Thanks for visiting my profile! Feel free to explore my repositories.
